@@ -1,2 +1,1 @@
-# rsschool-cv
-My CV for RSS
+https://eugenemns.github.io/rsschool-cv/cv
